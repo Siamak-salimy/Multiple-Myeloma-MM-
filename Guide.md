@@ -1,7 +1,6 @@
 
 **When working with Affymetrix data (e.g., microarray data), deciding whether to first map Probe IDs to Gene Names or to proceed directly with Probe IDs depends on the study objectives, the type of analysis, and the characteristics of the data.** Below, I outline the advantages, disadvantages, and key considerations of each approach, as well as how to handle the issue of unmapped probesets.
 ---
-
 ### 1. **Mapping Probe IDs to Gene Names**
 
 **Advantages:**
