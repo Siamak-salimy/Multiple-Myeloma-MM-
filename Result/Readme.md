@@ -1,2 +1,2 @@
-logFC >= 1
-logFC >= 0.6
+logFC >= 1  -- > 5
+logFC >= 0.6  --- > ~ 300
