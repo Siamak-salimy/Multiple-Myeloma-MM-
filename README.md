@@ -6,7 +6,7 @@ Multiple myeloma is a cancer that originates in plasma cells, which are a type o
 Talasemia </br>
 Near to end . 
 End
-
+.
 
 
 
